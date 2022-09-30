@@ -132,7 +132,7 @@ h6 {
 }
 
 .homePage {
-  background: url("assets/images/blob.png") no-repeat 84% 102%;
+  background: url("images/blob.png") no-repeat 84% 102%;
 }
 .homePage__header, .homePage__menu, .homePage__description, .homePage__depiction {
   max-width: 1218px;
