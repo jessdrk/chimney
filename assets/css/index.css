@@ -447,7 +447,7 @@ h6 {
   line-height: 30px;
 }
 .video__wrap {
-  background: no-repeat center/100% url(/assets/images/orange-blob.png);
+  background: no-repeat center/100% url(../images/orange-blob.png);
 }
 .video__youtube {
   display: -webkit-box;
